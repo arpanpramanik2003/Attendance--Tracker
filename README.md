@@ -1,5 +1,5 @@
 # Attendance Tracker
-![Attendance--Tracker].(image_attendance_tracker.jpg)
+![Attendance--Tracker](image_attendance_tracker.jpg)
 
 The **Attendance Tracker** is a Python-based GUI application designed to simplify the management of student attendance. Built using the Tkinter library, this program provides a user-friendly interface for teachers or administrators to efficiently register students, mark their daily attendance, and maintain records in a CSV file.
 
